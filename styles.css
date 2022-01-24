@@ -1,0 +1,62 @@
+input[type=text] {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 2%;
+}
+#head{
+  text-align: center;
+  background-color: #DEEEEA;
+  padding: 10% 5% 5% 5%;
+}
+.titel{
+  padding-top: 5%;
+  padding-bottom: 15%;
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 3rem;
+}
+.img-head{
+  border-radius: 30%;
+  width: 70%;
+  margin: 2%;
+}
+#end{
+  text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    background-color: #F0ECE3;
+    padding: 5%;
+    color: #000;
+    padding-bottom: 80%;
+}
+.fun-icon{
+  margin: 0 2%;
+  color: #000;
+}
+.fun-icon:hover{
+  color:#BA135D;
+}
+.reponse{
+padding: 1%;
+
+}
+.question{
+  text-align: center;
+  padding: 5%;
+  border: 2px solid;
+  border-radius: 30%;
+  margin:10%;
+}
+.titel-res{
+  font-family: 'Sedgwick Ave', cursive;
+  font-size: 2rem;
+  margin-top:  5%;
+
+}
+.btn{
+  margin: 5%;
+}
